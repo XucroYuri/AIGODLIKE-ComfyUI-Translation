@@ -1,0 +1,12 @@
+{
+  "RES4LYF": "RES4LYF",
+  "conditioning": "条件",
+  "images": "图像",
+  "latents": "潜空间",
+  "masks": "遮罩",
+  "loaders": "加载器",
+  "model": "模型",
+  "model_merging": "模型合并",
+  "legacy": "旧版",
+  "sampler": "采样"
+}
