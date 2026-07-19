@@ -1,0 +1,9 @@
+{
+  "FantasyPortraitFaceDetector": "幻影人像人脸检测",
+  "FantasyPortraitModelLoader": "幻影人像模型加载",
+  "FantasyTalkingModelLoader": "幻影说话模型加载",
+  "DownloadAndLoadNLFModel": "下载加载NLF模型",
+  "DownloadAndLoadWav2VecModel": "下载加载Wav2Vec模型",
+  "DrawNLFPoses": "绘制NLF姿态",
+  "EasyCache": "简易缓存"
+}
