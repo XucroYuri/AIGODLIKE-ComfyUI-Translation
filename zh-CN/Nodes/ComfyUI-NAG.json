@@ -1,0 +1,8 @@
+{
+  "KSamplerWithNAG": "KSampler(NAG)",
+  "KSamplerAdvancedWithNAG": "KSampler高级(NAG)",
+  "SamplerCustomWithNAG": "自定义采样(NAG)",
+  "NAGGuider": "NAG引导器",
+  "NAGCFGGuider": "NAG CFG引导器",
+  "NAGCFGGuiderAdvanced": "NAG CFG引导器高级"
+}
