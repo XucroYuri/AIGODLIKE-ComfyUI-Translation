@@ -1,0 +1,10 @@
+{
+  "LanPaint_KSampler": "LanPaint KSampler",
+  "LanPaint_KSamplerAdvanced": "LanPaint KSampler高级",
+  "LanPaint_SamplerCustom": "LanPaint自定义采样",
+  "LanPaint_SamplerCustomAdvanced": "LanPaint自定义采样高级",
+  "LanPaint_UpSale_LatentNoiseMask": "LanPaint放大潜空间噪声遮罩",
+  "MaskBlend": "遮罩混合",
+  "Noise_EmptyNoise": "空噪声",
+  "Noise_RandomNoise": "随机噪声"
+}

@@ -1,0 +1,8 @@
+{
+  "image": "图像",
+  "postprocessing": "后处理",
+  "latent": "潜空间",
+  "inpaint": "修复",
+  "sampling": "采样",
+  "custom_sampling": "自定义采样"
+}
