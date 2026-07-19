@@ -1,0 +1,14 @@
+{
+  "LoaderGGUF": "GGUF加载器",
+  "LoaderGGUFAdvanced": "GGUF加载器高级",
+  "GGUFRun": "GGUF运行",
+  "GGUFSave": "GGUF保存",
+  "GGUFUndo": "GGUF撤销",
+  "ClipLoaderGGUF": "CLIP加载(GGUF)",
+  "DualClipLoaderGGUF": "双CLIP(GGUF)",
+  "TripleClipLoaderGGUF": "三CLIP(GGUF)",
+  "QuadrupleClipLoaderGGUF": "四CLIP(GGUF)",
+  "AudioEncoderLoaderGGUF": "音频编码器(GGUF)",
+  "TENSORBoost": "张量加速",
+  "TENSORCut": "张量裁剪"
+}
