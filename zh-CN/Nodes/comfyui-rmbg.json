@@ -1,0 +1,17 @@
+{
+  "AILab_ColorToMask": "颜色转遮罩",
+  "AILab_Florence2": "Florence2检测",
+  "AILab_Florence2ToCoordinates": "Florence2转坐标",
+  "AILab_UnbatchImages": "图像解批",
+  "AILab_YoloV8": "YOLOv8检测",
+  "AILab_YoloV8Adv": "YOLOv8检测高级",
+  "AILab_LamaRemover": "LaMa移除",
+  "AILab_ImageCrop": "图像裁剪",
+  "AILab_ImageStitch": "图像拼接",
+  "AILab_ImageCombiner": "图像合并",
+  "AILab_ImageCompare": "图像对比",
+  "AILab_ImageMaskConvert": "图像遮罩转换",
+  "AILab_LoadImage": "加载图像",
+  "AILab_LoadImageAdvanced": "加载图像高级",
+  "AILab_LoadImageBatch": "批量加载图像"
+}
