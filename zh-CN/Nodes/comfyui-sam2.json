@@ -1,0 +1,7 @@
+{
+  "GroundingDinoSAM2Segment": "GroundingDINO SAM2分割",
+  "GroundingDinoModelLoader": "GroundingDINO模型加载",
+  "SAM2ModelLoader": "SAM2模型加载",
+  "InvertMask": "反转遮罩",
+  "IsMaskEmptyNode": "遮罩是否为空"
+}
