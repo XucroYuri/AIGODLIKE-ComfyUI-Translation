@@ -1,0 +1,6 @@
+{
+  "sampling": "采样",
+  "custom_sampling": "自定义采样",
+  "samplers": "采样器",
+  "sigmas": "噪声调度"
+}

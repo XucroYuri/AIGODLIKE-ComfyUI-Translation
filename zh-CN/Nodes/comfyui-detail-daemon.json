@@ -1,0 +1,6 @@
+{
+  "DetailDaemonSamplerNode": "DetailDaemon采样器",
+  "DetailDaemonGraphSigmasNode": "DetailDaemon噪声图",
+  "LyingSigmaSamplerNode": "LyingSigma采样器",
+  "MultiplySigmas": "噪声乘数"
+}
