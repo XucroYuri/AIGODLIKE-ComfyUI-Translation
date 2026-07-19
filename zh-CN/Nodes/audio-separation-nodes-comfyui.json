@@ -1,0 +1,9 @@
+{
+  "AudioSeparation": "音频分离",
+  "AudioCombine": "音频合并",
+  "AudioCrop": "音频裁剪",
+  "AudioGetTempo": "获取音频速度",
+  "AudioSpeedShift": "音频变速",
+  "AudioTempoMatch": "音频速度匹配",
+  "AudioVideoCombine": "音视频合并"
+}
