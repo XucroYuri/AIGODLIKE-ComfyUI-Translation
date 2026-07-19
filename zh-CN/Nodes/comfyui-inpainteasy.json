@@ -1,0 +1,6 @@
+{
+  "InpaintEasyModel": "修复易模型",
+  "ImageAndMaskResizeNode": "图像遮罩缩放",
+  "ImageCropMerge": "图像裁剪合并",
+  "CropByMask": "按遮罩裁剪"
+}
