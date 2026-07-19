@@ -1,0 +1,8 @@
+{
+  "UnetLoaderGGUF": "UNet加载(GGUF)",
+  "UnetLoaderGGUFAdvanced": "UNet加载(GGUF高级)",
+  "CLIPLoaderGGUF": "CLIP加载(GGUF)",
+  "DualCLIPLoaderGGUF": "双CLIP加载(GGUF)",
+  "TripleCLIPLoaderGGUF": "三CLIP加载(GGUF)",
+  "QuadrupleCLIPLoaderGGUF": "四CLIP加载(GGUF)"
+}
