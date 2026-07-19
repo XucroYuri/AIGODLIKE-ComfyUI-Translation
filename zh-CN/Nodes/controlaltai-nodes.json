@@ -1,0 +1,20 @@
+{
+  "FluxAttentionCleanup": "Flux注意力清理",
+  "FluxAttentionControl": "Flux注意力控制",
+  "FluxControlNetApply": "Flux ControlNet应用",
+  "FluxUnionControlNetApply": "Flux联合ControlNet应用",
+  "FluxResolutionNode": "Flux分辨率",
+  "FluxSampler": "Flux采样器",
+  "RegionMaskGenerator": "区域遮罩生成",
+  "RegionMaskProcessor": "区域遮罩处理",
+  "RegionMaskConditioning": "区域遮罩条件",
+  "NoisePlusBlend": "噪声混合",
+  "PerturbationTexture": "扰动纹理",
+  "HiDreamResolutionNode": "HiDream分辨率",
+  "GetImageSizeRatio": "获取图像尺寸比例",
+  "ChooseUpscaleModel": "选择放大模型",
+  "IntegerSettings": "整数设置",
+  "IntegerSettingsAdvanced": "整数设置高级",
+  "BooleanBasic": "布尔基础",
+  "BooleanReverse": "布尔反转"
+}
