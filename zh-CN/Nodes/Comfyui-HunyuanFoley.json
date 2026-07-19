@@ -1,0 +1,7 @@
+{
+  "HunyuanFoleySampler": "混元拟音采样",
+  "HunyuanModelLoader": "混元模型加载",
+  "HunyuanDependenciesLoader": "混元依赖加载",
+  "HunyuanFoleyTorchCompile": "混元拟音Torch编译",
+  "SelectAudioFromBatch": "从批次选择音频"
+}
