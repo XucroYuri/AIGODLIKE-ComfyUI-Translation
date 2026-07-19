@@ -1,0 +1,16 @@
+{
+  "WLSH_Alternating_KSamplerAdvanced": "WLSH交替KSampler高级",
+  "WLSH_Build_Filename_String": "WLSH构建文件名字符串",
+  "WLSH_CLIP_Positive_Negative": "WLSH CLIP正负向",
+  "WLSH_CLIP_Positive_Negative_XL": "WLSH CLIP正负向XL",
+  "WLSH_CLIP_Text_Positive_Negative": "WLSH CLIP文本正负向",
+  "WLSH_CLIP_Text_Positive_Negative_XL": "WLSH CLIP文本正负向XL",
+  "WLSH_CLIP_Text_Unified": "WLSH CLIP文本统一",
+  "WLSH_Checkpoint_Loader_Model_Name": "WLSH模型名加载",
+  "WLSH_Empty_Latent_Image_By_Pixels": "WLSH空潜空间(像素)",
+  "WLSH_Empty_Latent_Image_By_Ratio": "WLSH空潜空间(比例)",
+  "WLSH_Empty_Latent_Image_By_Resolution": "WLSH空潜空间(分辨率)",
+  "WLSH_Generate_Edge_Mask": "WLSH生成边缘遮罩",
+  "WLSH_Image_Grayscale": "WLSH图像灰度化",
+  "WLSH_Image_Save_With_File": "WLSH保存图像(含文件信息)"
+}

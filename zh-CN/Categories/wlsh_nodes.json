@@ -1,0 +1,13 @@
+{
+  "WLSH Nodes": "WLSH节点",
+  "IO": "输入输出",
+  "conditioning": "条件",
+  "image": "图像",
+  "inpainting": "修复",
+  "latent": "潜空间",
+  "loaders": "加载器",
+  "number": "数值",
+  "sampling": "采样",
+  "text": "文本",
+  "upscaling": "放大"
+}
