@@ -1,0 +1,7 @@
+{
+  "UNetLoaderINTW8A8": "UNet加载(INT8)",
+  "INT8GroupedLora": "INT8分组LoRA",
+  "INT8ModelSave": "INT8模型保存",
+  "PreLoraLoader": "预LoRA加载",
+  "Int8TensorwiseLayout": "INT8张量布局"
+}
