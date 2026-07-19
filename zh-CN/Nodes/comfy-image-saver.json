@@ -1,0 +1,11 @@
+{
+  "ImageSaveWithMetadata": "保存图像(含元数据)",
+  "SeedGenerator": "种子生成器",
+  "StringLiteral": "字符串常量",
+  "SizeLiteral": "尺寸常量",
+  "IntLiteral": "整数常量",
+  "CfgLiteral": "CFG常量",
+  "CheckpointSelector": "模型选择器",
+  "SamplerSelector": "采样器选择器",
+  "SchedulerSelector": "调度器选择器"
+}
