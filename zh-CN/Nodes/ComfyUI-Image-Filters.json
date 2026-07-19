@@ -1,0 +1,18 @@
+{
+  "AlphaMatte": "Alpha遮罩精细",
+  "AlphaClean": "Alpha清理",
+  "BetterFilmGrain": "胶片颗粒(优化)",
+  "BilateralFilterImage": "双边滤波",
+  "BlurImageFast": "快速模糊",
+  "BlurMaskFast": "快速遮罩模糊",
+  "ColorMatchImage": "色彩匹配",
+  "AdainImage": "AdaIN风格迁移",
+  "AdainLatent": "AdaIN潜空间",
+  "AdainFilterLatent": "AdaIN滤波潜空间",
+  "BatchAlign": "批次对齐",
+  "BatchAverageImage": "批次平均",
+  "BatchNormalizeImage": "批次归一化",
+  "BatchNormalizeLatent": "批次潜空间归一化",
+  "ConditioningSubtract": "条件减法",
+  "CustomNoise": "自定义噪声"
+}

@@ -1,0 +1,11 @@
+{
+  "Image-Filters": "图像滤镜",
+  "image": "图像",
+  "frames": "帧",
+  "jitter": "抖动",
+  "conditioning": "条件",
+  "latent": "潜空间",
+  "mask": "遮罩",
+  "sampling": "采样",
+  "utils": "工具"
+}
