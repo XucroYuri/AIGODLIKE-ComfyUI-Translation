@@ -1,0 +1,17 @@
+{
+  "DepthAnythingV3_3D": "DepthAnythingV3_3D",
+  "DepthAnythingV3_Advanced": "DepthAnythingV3_高级",
+  "DepthAnythingV3_MultiView": "DepthAnythingV3_多视图",
+  "DepthAnything_V3": "DepthAnything_V3",
+  "DownloadAndLoadDepthAnythingV3Model": "下载加载DAV3模型",
+  "DA3_CreateCameraParams": "DA3_创建相机参数",
+  "DA3_EnableTiledProcessing": "DA3_启用分块处理",
+  "DA3_MultiViewPointCloud": "DA3_多视图点云",
+  "DA3_ParseCameraPose": "DA3_解析相机姿态",
+  "DA3_PreviewPointCloud": "DA3_预览点云",
+  "DA3_Save3DGaussians": "DA3_保存3D高斯",
+  "DA3_SavePointCloud": "DA3_保存点云",
+  "DA3_To3DGaussians": "DA3_转3D高斯",
+  "DA3_ToMesh": "DA3_转网格",
+  "DA3_ToPointCloud": "DA3_转点云"
+}
