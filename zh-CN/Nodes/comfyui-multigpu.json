@@ -1,0 +1,7 @@
+{
+  "DeviceSelectorMultiGPU": "多GPU设备选择",
+  "CLIPLoaderMultiGPU": "CLIP加载(多GPU)",
+  "CheckpointLoaderSimpleMultiGPU": "模型加载(多GPU)",
+  "ControlNetLoaderMultiGPU": "ControlNet加载(多GPU)",
+  "VAELoaderMultiGPU": "VAE加载(多GPU)"
+}
