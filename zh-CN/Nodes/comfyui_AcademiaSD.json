@@ -1,0 +1,20 @@
+{
+  "AcademiaDownloaderNode": "Academia下载器",
+  "AcademiaLTXVMultiFrames": "Academia LTXV多帧",
+  "AcademiaLoopCounter": "Academia循环计数",
+  "AcademiaModelLoader": "Academia模型加载",
+  "AcademiaMultiLoraNode": "Academia多LoRA",
+  "AcademiaMultiPrompt": "Academia多提示词",
+  "AcademiaNumericNode": "Academia数值节点",
+  "AcademiaResolutionCalc": "Academia分辨率计算",
+  "AcademiaResolutionDisplayNode": "Academia分辨率显示",
+  "AcademiaResolutionSelector": "Academia分辨率选择",
+  "AcademiaSD_BatchLoader": "AcademiaSD批量加载",
+  "AcademiaSD_Gemini_Node": "AcademiaSD Gemini节点",
+  "AcademiaSD_SaveCaption": "AcademiaSD保存描述",
+  "AcademiaSaveAndSendNode": "Academia保存发送",
+  "AcademiaTimeCalculator": "Academia时间计算",
+  "AcademiaVideoKeyframer": "Academia视频关键帧",
+  "AcademiaVisionNode": "Academia视觉节点",
+  "Academia_Edit": "Academia编辑"
+}
