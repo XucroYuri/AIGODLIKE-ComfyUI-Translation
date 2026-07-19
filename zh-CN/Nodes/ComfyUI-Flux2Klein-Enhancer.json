@@ -1,0 +1,11 @@
+{
+  "Flux2KleinEnhancer": "Flux2Klein增强器",
+  "Flux2KleinColorAnchor": "Flux2Klein色彩锚点",
+  "Flux2KleinDetailController": "Flux2Klein细节控制",
+  "Flux2KleinMaskRefController": "Flux2Klein遮罩参考控制",
+  "Flux2KleinRefLatentController": "Flux2Klein潜空间参考控制",
+  "Flux2KleinRefLatentWeight": "Flux2Klein潜空间参考权重",
+  "Flux2KleinSectionedEncoder": "Flux2Klein分段编码器",
+  "Flux2KleinTextEnhancer": "Flux2Klein文本增强",
+  "Flux2KleinTextRefBalance": "Flux2Klein文本参考平衡"
+}
